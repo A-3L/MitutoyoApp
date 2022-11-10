@@ -52,7 +52,7 @@ public class MitutoyoApp extends WindowAdapter{
        
        javax.swing.SwingUtilities.invokeLater(() -> {
            
-         //setMyLookAndFeel();
+         setMyLookAndFeel();
          init();
         
      });
