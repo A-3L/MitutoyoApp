@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.1" class="java.beans.XMLDecoder">
+ <object class="mitutoyo.data.Visualizador">
+  <void property="resolucion">
+   <int>4</int>
+  </void>
+  <void property="tasaDeRefresco">
+   <int>4</int>
+  </void>
+  <void property="visualizador">
+   <string>LCD-9Digitos</string>
+  </void>
+ </object>
+</java>
